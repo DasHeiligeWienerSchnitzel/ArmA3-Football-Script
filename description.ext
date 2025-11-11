@@ -1,0 +1,10 @@
+class CfgFunctions {
+	class SCHNITZEL {
+		class Football {
+			file = "functions"; //folder
+			
+			class football_calc {};
+			class football {};
+		};
+	};
+};
