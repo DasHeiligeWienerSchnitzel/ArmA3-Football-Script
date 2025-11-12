@@ -20,4 +20,3 @@ while {_ball getVariable ["schnitzel_football_active",true]} do {
 	};
 	sleep 0.02;
 };
-_ball setVariable ["schnitzel_football_active", true, true];
