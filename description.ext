@@ -4,6 +4,9 @@ class CfgFunctions {
 			file = "functions"; //folder
 			
 			class football_calc {};
+			class createFootball {};
+			class deleteFootball {};
+			class moveFootball {};
 		};
 	};
 };
